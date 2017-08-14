@@ -128,3 +128,9 @@
 .block_adminblock .content .singleselect {
     text-align: left;
 }
+
+/* Docked block
+------------------------------*/
+.block_tree.list ul,li{
+    list-style-type: none;
+}  

@@ -19,7 +19,7 @@
 }
 
 .path-course-view .section .content {
-    padding: 10px;
+    padding: 0;
 }
 
 .path-course-view .section .content .section {
@@ -114,4 +114,8 @@
 
 #page-course-publish-backup .sharecoursecontinue {
     text-align: center;
+}
+
+.hidden.sectionname {
+    visibility: hidden;
 }
